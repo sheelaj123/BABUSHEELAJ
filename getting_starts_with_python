@@ -1,0 +1,14 @@
+Jupyter Notebooks
+Jupyter Notebooks are an open source web application that allows you to create and share Python code. They are frequently used for data science. The code samples in this course are completed using Jupyter Notebooks which have a .ipynb file extension.
+Documentation:-
+Jupyter to install Jupyter so you can run Jupyter Notebooks locally on your computer
+Jupyter Notebook viewer to view Jupyter Notebooks in this GitHub repository without installing Jupyter
+Azure Notebooks to create a free Azure Notebooks account to run Notebooks in the cloud
+Create and run a notebook is a tutorial that walks you through the process of using Azure Notebooks to create a complete Jupyter Notebook that demonstrates linear regression
+How to create and clone projects to create a project
+Manage and configure projects in Azure Notebooks to upload Notebooks to your project
+Microsoft Learn Resources
+Explore related tutorials on Microsoft Learn.
+
+Intro to machine learning with Python and Azure Notebooks
+https://jupyter.org/
